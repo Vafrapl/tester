@@ -1,0 +1,31 @@
+C:\Users\User_10\source\repos\WindowsFormsApp17\bin\Debug\blank.docx
+C:\Users\User_10\source\repos\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.exe.config
+C:\Users\User_10\source\repos\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.exe
+C:\Users\User_10\source\repos\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.pdb
+C:\Users\User_10\source\repos\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csprojAssemblyReference.cache
+C:\Users\User_10\source\repos\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.ResolveComReference.cache
+C:\Users\User_10\source\repos\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form1.resources
+C:\Users\User_10\source\repos\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Properties.Resources.resources
+C:\Users\User_10\source\repos\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.GenerateResource.cache
+C:\Users\User_10\source\repos\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.CoreCompileInputs.cache
+C:\Users\User_10\source\repos\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.exe
+C:\Users\User_10\source\repos\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.pdb
+D:\Сетевая папка\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.AssemblyReference.cache
+D:\Сетевая папка\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.SuggestedBindingRedirects.cache
+D:\Сетевая папка\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.ResolveComReference.cache
+D:\Сетевая папка\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form1.resources
+D:\Сетевая папка\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Properties.Resources.resources
+D:\Сетевая папка\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.GenerateResource.cache
+D:\Сетевая папка\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.CoreCompileInputs.cache
+C:\Users\Kabinet_9\source\repos\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kabinet_9\source\repos\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.ResolveComReference.cache
+C:\Users\Kabinet_9\source\repos\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form1.resources
+C:\Users\Kabinet_9\source\repos\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Properties.Resources.resources
+C:\Users\Kabinet_9\source\repos\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.GenerateResource.cache
+C:\Users\Kabinet_9\source\repos\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.CoreCompileInputs.cache
+C:\Users\Kabinet_9\source\repos\WindowsFormsApp17\bin\Debug\blank.docx
+C:\Users\Kabinet_9\source\repos\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.exe.config
+C:\Users\Kabinet_9\source\repos\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.exe
+C:\Users\Kabinet_9\source\repos\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.pdb
+C:\Users\Kabinet_9\source\repos\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.exe
+C:\Users\Kabinet_9\source\repos\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.pdb
